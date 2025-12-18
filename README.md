@@ -1,6 +1,6 @@
-Learning AI Now
-Patterns wake inside the code
-Future takes its shape
+Learning AI Now  
+Patterns wake inside the code  
+Future takes its shape  
 
 
 <!---
